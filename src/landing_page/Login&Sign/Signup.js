@@ -42,7 +42,7 @@ const Signup = () => {
 
     try {
       const response = await axios.post(
-        "http://localhost:5000/signup",
+        "https://backend-my-project.onrender.com/signup",
         {
           email,
           password,
