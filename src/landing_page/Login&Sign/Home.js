@@ -17,7 +17,7 @@ const Home = () => {
       }
       try {
         const { data } = await axios.post(
-          "http://localhost:5000", // Make sure this endpoint is correct
+          "https://backend-my-project.onrender.com", // Make sure this endpoint is correct
           {},
           { withCredentials: true }
         );
