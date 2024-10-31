@@ -59,7 +59,7 @@ const Signup = () => {
         handleSuccess(message);
         setTimeout(() => {
           // Redirect to a different port (3001) after success
-          window.location.href = "lazarus-dashboard.vercel.app";
+          window.location.href = "https://lazarus-dashboard.vercel.app";
         }, 1000);
       } else {
         handleError(message);
