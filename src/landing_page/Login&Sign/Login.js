@@ -50,7 +50,7 @@ const Login = () => {
         handleSuccess(message);
         setTimeout(() => {
           // Redirect to the main route after success
-          window.location.href = "lazarus-dashboard.vercel.app";
+          window.location.href = "https://lazarus-dashboard.vercel.app";
         }, 1000);
       } else {
         handleError(message);
