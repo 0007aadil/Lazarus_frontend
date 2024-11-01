@@ -4,7 +4,7 @@ A web application for managing financial transactions and tracking investments w
 
 ## Project Links
 
-- [Live Demo](https://lazarus-lac.vercel.app/)
+- [Live Demo](https://lazarus-dusky.vercel.app)
 - [Frontend Repository](https://github.com/0007aadil/Lazarus-frontend.git)
 - [Dashboard Repository](https://github.com/0007aadil/Lazarus-dashboard.git)
 - [Backend Repository](https://github.com/0007aadil/Lazarus-backend.git)
