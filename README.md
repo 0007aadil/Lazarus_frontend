@@ -5,7 +5,7 @@ A web application for managing financial transactions and tracking investments w
 ## Project Links
 
 - [Live Demo](https://lazarus-dusky.vercel.app)
-- [Frontend Repository](https://github.com/0007aadil/Lazarus-frontend.git)
+- [Frontend Repository](https://github.com/0007aadil/Lazarus_frontend.git)
 - [Dashboard Repository](https://github.com/0007aadil/Lazarus_dashboard.git)
 - [Backend Repository](https://github.com/0007aadil/Lazarus_backend.git)
 
@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repositories:
    ```bash
-   git clone https://github.com/0007aadil/Lazarus-frontend.git
+   git clone https://github.com/0007aadil/Lazarus_frontend.git
    git clone https://github.com/0007aadil/Lazarus_dashboard.git
    git clone https://github.com/0007aadil/Lazarus_backend.git
 2. Navigate to the frontend directory and install dependencies:
